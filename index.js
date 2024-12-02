@@ -9,9 +9,9 @@ let herois = [
    ["Thor", 10951],   
 ];
 
-for (let i = 0; i < herois.length; i++) {
-   let nome = herois[i][0];
-   let xp = herois[i][1];
+for (let h = 0; h < herois.length; h++) {
+   let nome = herois[h][0];
+   let xp = herois[h][1];
    let nivel = "";
 
    if (xp < 1000) {
