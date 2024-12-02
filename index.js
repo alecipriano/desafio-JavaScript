@@ -1,12 +1,12 @@
 let herois = [
-   ["Batman", 977],
+   ["Batman", 917],
    ["Homen Aranha", 1258],
    ["Homem De Ferro", 3500],
-   ["Hulk", 6950],
+   ["Hulk", 6926],
    ["Capitao America", 7589],
    ["Doutor Estranho", 8965],
    ["SuperMan", 9812],
-   ["Thor", 10951],   
+   ["Thor", 10917],   
 ];
 
 for (let h = 0; h < herois.length; h++) {
